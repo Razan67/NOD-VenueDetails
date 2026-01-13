@@ -21,7 +21,7 @@ The screen includes:
 ---
 
 ## **Screenshots / Demo**
-![Venue Details Screen](link-to-your-screenshot-or-gif)
+![Venue Details Screen](VenueDetails.JPGE)
 
 ---
 
